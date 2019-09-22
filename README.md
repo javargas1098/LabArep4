@@ -2,7 +2,7 @@
    
 ## Empezando  
   
-Para ejecutar el programa solo debe ir al link de heroku `[https://arepweb.herokuapp.com/](webapi)` en el articulo se encuentra explicado como se debe usar el link para poder evideciar el funcionamiento del la apliacion
+Para ejecutar el programa solo debe ir al link de heroku `[https://webaws.herokuapp.com](webapi)` en el articulo se encuentra explicado como se debe usar el link para poder evideciar el funcionamiento del la apliacion
 
 ### Documentación  
   
