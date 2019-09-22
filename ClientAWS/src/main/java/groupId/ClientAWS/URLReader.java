@@ -5,6 +5,12 @@ import java.net.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+/**
+ * La clase UrlReader se encarga de leer urls de manera concurrente y de imprimir su contenido en
+ * pantalla, se creean archcivos i-esimo para ver el resultado de cada lectura
+ * 
+ * @author Javier Vargas
+ */
 public class URLReader implements Runnable {
 
 	private URL url;

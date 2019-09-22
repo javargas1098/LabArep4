@@ -21,6 +21,13 @@ import javax.imageio.ImageIO;
 import org.reflections.Reflections;
 import org.reflections.scanners.SubTypesScanner;
 
+
+/**
+ * La clase Request resuelve peticiones
+ * hechas por un cliente de manera concurrene.
+ *
+ * @author Javier Vargas
+ */
 public class Request implements Runnable {
 
 	private Socket clientSocket;

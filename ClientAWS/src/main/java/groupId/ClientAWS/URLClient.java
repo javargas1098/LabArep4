@@ -8,6 +8,12 @@ import java.util.concurrent.TimeUnit;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+/**
+ * La clase URLClient lee el contenido
+ * de una URL e imprime su contenido en consola.
+ *
+ * @author Javier Vargas
+ */
 public class URLClient {
 	 public static void main(String[] args) {
 	        ExecutorService es = Executors.newFixedThreadPool(10);
