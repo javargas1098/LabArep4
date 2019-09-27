@@ -9,7 +9,7 @@ Para ejecutar el programa solo debe ir al link de heroku
 
 ### Documentación  
   
-La documentación se encuentra en la carpeta doc.  
+La documentación se encuentra en la carpeta doc de cada proyecto.  
   
 
 ## Autor  
